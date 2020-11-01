@@ -1,4 +1,4 @@
-### `Not 100% done but gave my 100% for sure`
+### `Not 100% Completed but gave my 100% for sure`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
